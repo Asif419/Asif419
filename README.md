@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/Asif419/Asif419/blob/main/banner.png" alt="Asif Shahariar Banner" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Md Asif Shahariar</h1>
 
 <p align="center">
