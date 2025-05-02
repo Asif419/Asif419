@@ -23,7 +23,7 @@
 - 📚 Completing MSc in **Data Science** at **Tampere University**, Finland.
 - 🛠️ Tech Stack: React.js • Node.js • Next.js • TypeScript • MongoDB • SQL • Express.js
 - 👨‍💻 I have 1 year of professional experience as a Software Engineer at **ULTRA-X BD**.
-- 📺 I run a tech YouTube channel [**Data Will Alive**](https://www.youtube.com/c/datawillaliveyoutube) with ~36K subscribers.
+- 📺 I run a tech YouTube channel [**Data Will Alive**](https://www.youtube.com/c/datawillaliveyoutube) with ~35K subscribers.
 
 ---
 
@@ -111,7 +111,7 @@
 
 - 🧑‍🏫 Teaching Assistant & Student Prefect in CSE Labs  
 - 📢 Speaker & Mentor in coding bootcamps  
-- 📺 Creator of “Data Will Alive” – tutorials on Data Science & Full-stack Dev
+- 📺 Creator of “Data Will Alive” YouTube channel
 
 ---
 
