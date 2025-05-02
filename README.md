@@ -100,10 +100,6 @@
 
   <br /><br />
 
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asif419&layout=compact&theme=graywhite&hide_border=true" alt="Asif's Top Languages" />
-
-  <br /><br />
-
   ![](https://komarev.com/ghpvc/?username=Asif419&color=gray&style=flat-square)
 
 </div>
