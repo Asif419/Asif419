@@ -98,10 +98,6 @@
 
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Asif419&theme=graywhite&hide_border=true" alt="Asif's GitHub Streak" />
 
-  <br /><br />
-
-  ![](https://komarev.com/ghpvc/?username=Asif419&color=gray&style=flat-square)
-
 </div>
 
 ---
