@@ -90,23 +90,23 @@
 
 ---
 
-### 📊 GitHub Stats & Current Status
+### 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asif419&show_icons=true&theme=radical" alt="Asif's GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asif419&theme=radical" alt="Asif's GitHub Streak" />
-</p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Asif419&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true" alt="Asif's GitHub Stats" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asif419&layout=compact&theme=radical" alt="Asif's Top Languages" />
-</p>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Asif419&theme=graywhite&hide_border=true" alt="Asif's GitHub Streak" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Asif419&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
+  <br /><br />
+
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asif419&layout=compact&theme=graywhite&hide_border=true" alt="Asif's Top Languages" />
+
+  <br /><br />
+
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Asif419&theme=graywhite" alt="Asif's GitHub Activity Graph" />
+
+</div>
 
 ---
 
