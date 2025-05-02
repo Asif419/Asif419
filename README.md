@@ -27,19 +27,19 @@
 
 ---
 
-### 💼 Featured Projects
+### 🚀 Featured Projects
 
-#### 🧸 [Toy Safari](https://github.com/Asif419/Toy-Safari-client)
-> An e-commerce platform for listing and managing toy sales with full CRUD features and role-based access.
+#### 🏥 [Medicine Shop](https://github.com/Asif419/medicine-shop-client)
+> A modern online platform for buying and managing medicines, with user authentication, admin panel, and secure checkout flow.
 
-**Tech Stack**: React.js • Tailwind CSS • Node.js • Express.js • MongoDB • Firebase Auth
+**Tech Stack**: React.js • Tailwind CSS • Node.js • Express.js • MongoDB • Firebase Auth • Stripe
 
 ---
 
-#### 🌐 [Globe Lingual](https://github.com/Asif419/Globe-Lingual-client)
-> A marketplace for language courses with admin dashboard and instructor/student management.
+#### 📚 [Book Store](https://github.com/Asif419/book-store-client)
+> A full-featured book marketplace with user login, real-time search, add-to-cart, and dynamic book listings.
 
-**Tech Stack**: React.js • Tailwind CSS • Node.js • Express.js • MongoDB • Firebase Auth
+**Tech Stack**: React.js • Tailwind CSS • Node.js • Express.js • MongoDB
 
 ---
 
