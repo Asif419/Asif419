@@ -43,13 +43,6 @@
 
 ---
 
-### 📄 Publication
-
-- 🧠 [**Identification of Spoken Language Using Machine Learning**](https://ieeexplore.ieee.org/document/9392744)  
-  *(IEEE Xplore – First Author)*
-
----
-
 ### 🛠️ Technology Stack
 
 <p align="left">
@@ -106,6 +99,11 @@
 </div>
 
 ---
+
+### 📄 Publication
+
+- 🧠 [**Identification of Spoken Language Using Machine Learning**](https://ieeexplore.ieee.org/document/9392744)  
+  *(IEEE Xplore – First Author)*
 
 ### 🏆 Achievements
 
