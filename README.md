@@ -104,10 +104,6 @@
 
   <br /><br />
 
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Asif419&theme=graywhite" alt="Asif's GitHub Activity Graph" />
-
-  <br /> <br />
-
   ![](https://komarev.com/ghpvc/?username=Asif419&color=gray&style=flat-square)
 
 </div>
