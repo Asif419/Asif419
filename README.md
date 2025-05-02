@@ -90,6 +90,26 @@
 
 ---
 
+### 📊 GitHub Stats & Current Status
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asif419&show_icons=true&theme=radical" alt="Asif's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asif419&theme=radical" alt="Asif's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asif419&layout=compact&theme=radical" alt="Asif's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Asif419&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
+
+---
+
 ### 🏆 Achievements
 
 - 🧑‍🏫 Teaching Assistant & Student Prefect in CSE Labs  
